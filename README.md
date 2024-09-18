@@ -8,8 +8,7 @@ preprocessing, feature selection, SMOTE for class balancing, and performance eva
 
 **Features:**
 
-  Data Preprocessing: Handling missing values, scaling features.
-  
+  Data Preprocessing: Handling missing values, scaling features.  
   Feature Selection: Identifying and selecting top features using correlation.
   
   Model Training: Implementations of CatBoost, SVM, Random Forest, and XGBoost.
