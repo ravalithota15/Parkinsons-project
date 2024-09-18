@@ -30,11 +30,7 @@ preprocessing, feature selection, SMOTE for class balancing, and performance eva
   The models are evaluated using cross-validation with the following metrics:
   
     Mean Accuracy
-    
     Mean Confusion Matrix
-    
     Mean Precision
-    
     Mean Recall
-  
-  Mean F1-score
+    Mean F1-score
